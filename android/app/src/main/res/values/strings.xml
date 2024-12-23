@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">ocena-ryzyka-cvd</string>
+    <string name="title_activity_main">ocena-ryzyka-cvd</string>
+    <string name="package_name">ocena.ryzyka.cvd</string>
+    <string name="custom_url_scheme">ocena.ryzyka.cvd</string>
+</resources>
